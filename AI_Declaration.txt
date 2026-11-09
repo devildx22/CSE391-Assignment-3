@@ -1,0 +1,59 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Rifat Farzad Azad
+Student ID: 22301353
+Assignment: CSE 391 - Assignment 3: PHP and mySQL Project
+Date: 2026-11-09
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[x] GitHub Copilot
+[x] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[x] Debugging my code
+[x] Generating code snippets
+[ ] Writing text content
+[x] Design/styling ideas
+[x] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+
+I used Google Gemini as a pair-programming assistant to build the MySQL database schema and write secure PHP PDO queries. Gemini helped me implement the specific business logic (verifying the 4-car maximum limit and preventing duplicate day bookings). I also used it to generate a cinematic CSS UI theme, implement the JavaScript fetch API to dynamically update available mechanic slots, and generate the graphical assets (the garage background and RF Autos logo).
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: index.php                 Section: Cinematic CSS UI & JS Fetch API logic
+File: process_appointment.php   Section: PHP PDO constraints & database insertion
+File: admin.php                 Section: Admin data table & update queries
+File: bg-garage.jpg/rf-logo.jpg Section: Full Image Generation
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Rifat Farzad Azad
+Date: 2026-11-09
